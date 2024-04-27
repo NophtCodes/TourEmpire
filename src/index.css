@@ -9,3 +9,11 @@
   color-scheme: white;
 }
 
+header {
+  background-image: url(./assets/herobg.jpg);
+  min-height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: #fff;
+}
